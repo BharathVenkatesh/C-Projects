@@ -1,0 +1,41 @@
+	//struct pool_block* two;
+			//(void*)g_pool_heap;
+	//printf("%d\n",sizeof(g_pool_heap));
+/*	printf("%d\n",sizeof(head));
+	printf("%d\n",sizeof(head->size));
+	printf("%d\n",sizeof(head->next));
+	printf("%d\n",sizeof(head->free));
+	printf("%d\n",sizeof(struct pool_block));*/
+	//printf("%d\n",sizeof(two));
+	//printf("%p\n",head);
+	/*printf("%p\n",&(head->size));
+	printf("%p\n",&(head->next));
+	printf("%p\n",&(head->free));
+	head->next=head+head->size;
+	printf("%p\n",&(head->next));
+	head++;
+	printf("%p\n",head);*/
+	//printf("%p\n",two);
+	//head=head+2;
+	//printf("%p\n",head);
+	//printf("%p\n",(head+65535));
+
+/*	printf("%p\n",head);
+	printf("%x\n",(int)head);
+	printf("%x\n",head->next);*/
+
+	//head->next=(u)head+sizeof(uint8_t)*(head->size);
+	//printf("%d\n", sizeof(uint8_t)*(head->size));
+	//printf("%X\n",head->next);
+	//printf("%d\n",(head->size));
+	//printf("%p\n",&(head->next));
+	//printf("%p\n",head);
+	//head++;
+	//printf("%p\n",head);
+	//printf("%p\n",&(head->next));
+
+
+prints in init function , while loop- if condition:
+			//printf("%d\n", pool_end_address);
+			//printf("%d\n",last);
+			//printf("last_initialization\n");
